@@ -21,3 +21,7 @@
   <a href="https://discord.gg/Histeria"> Clique</a>
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&duration=4000&pause=5000&color=0BF700&random=false&width=435&lines=Veut+devenir+programmeur+plus+tard;J%E2%80%99apprends+chaque+jour+(ou+presque))](https://git.io/typing-svg)
+ 
+ ##Ce n'est que le début :/
+ [![TomGammeur's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomgammeur)](https://github.com/tomgammeur/github-readme-stats)
+
