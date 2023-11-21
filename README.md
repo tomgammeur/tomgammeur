@@ -22,7 +22,8 @@
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&duration=4000&pause=5000&color=0BF700&random=false&width=435&lines=Veut+devenir+programmeur+plus+tard;J%E2%80%99apprends+chaque+jour+(ou+presque))](https://git.io/typing-svg)
  
- ## Ce n'est que le début :/
+ ## Stats
  
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TomGammeur&theme=blue-green)
  
+[url=https://minecraftpocket-servers.com/server/82450/][img]https://minecraftpocket-servers.com/server/82450/banners/half-banner-3.png[/img][/url]
