@@ -25,5 +25,4 @@
  ## Stats
  
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TomGammeur&theme=blue-green)
- 
-[url=https://minecraftpocket-servers.com/server/82450/][img]https://minecraftpocket-servers.com/server/82450/banners/half-banner-3.png[/img][/url]
+
