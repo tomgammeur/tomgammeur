@@ -25,6 +25,5 @@
  ## Stats
  
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TomGammeur&theme=blue-green)
-[url=http://stats.avamods.com/dod/player.php?id=309398][img]http://stats.avamods.com/dod/sig/sig_309398_0.png[/img][/url]
 
 
