@@ -6,25 +6,30 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
 
-# Mes liens
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&duration=4000&pause=5000&color=0BF700&random=false&width=435&lines=Veut+devenir+programmeur+plus+tard;J%E2%80%99apprends+chaque+jour+(ou+presque))](https://git.io/typing-svg)
+# Reseaux
 
 ![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
-<a href="https://www.youtube.com/channel/UCTbv9-b2Sq1LK0D0nO5Wb2A/videos"> Clique</a>
+<a href="https://www.twitch.tv/TomGammeur"> /TomGammeur</a>
 
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-<a href="https://www.twitch.tv/TomGammeur"> Clique</a>
+<a href="https://www.youtube.com/channel/UCTbv9-b2Sq1LK0D0nO5Wb2A/videos"> /@TomGammeur</a>
 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
- <a href="https://steamcommunity.com/id/TomGammeur"> Clique</a>
+ <a href="https://steamcommunity.com/id/TomGammeur"> /TomGammeur</a>
 
  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-  <a href="https://discord.gg/Histeria"> Clique</a>
+  <a href="https://discord.gg/Histeria"> </a>
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&duration=4000&pause=5000&color=0BF700&random=false&width=435&lines=Veut+devenir+programmeur+plus+tard;J%E2%80%99apprends+chaque+jour+(ou+presque))](https://git.io/typing-svg)
+
  
  ## Stats
  
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TomGammeur&theme=blue-green)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tomgammeur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tomgammeur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<p>Vous êtes le</p>
-  <img src="https://profile-counter.glitch.me/tomgammeur/count.svg?"  /><p> visiteur de cette page</p>
+
+### Vues
+  <img src="https://profile-counter.glitch.me/tomgammeur/count.svg?"  />
