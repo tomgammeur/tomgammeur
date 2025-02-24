@@ -8,18 +8,24 @@
 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&duration=4000&pause=5000&color=0BF700&random=false&width=435&lines=Veut+devenir+programmeur+plus+tard;J%E2%80%99apprends+chaque+jour+(ou+presque))](https://git.io/typing-svg)
 # Reseaux
-
-![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
-<a href="https://www.twitch.tv/TomGammeur"> /TomGammeur</a>
-
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-<a href="https://www.youtube.com/channel/UCTbv9-b2Sq1LK0D0nO5Wb2A/videos"> /@TomGammeur</a>
+<div align="center">
+  <a href="https://www.youtube.com/channel/UCTbv9-b2Sq1LK0D0nO5Wb2A/videos" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.x.com/TomGammeur" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.gg/adocord" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.twitch.tv/TomGammeur" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
+  </a>
+</div>
 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
  <a href="https://steamcommunity.com/id/TomGammeur"> /TomGammeur</a>
 
- ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-  <a href="https://discord.gg/Histeria"> </a>
 
 
  
